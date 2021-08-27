@@ -1,0 +1,5 @@
+body {
+    background: linear-gradient(teal 0%, indigo 100%);
+    background-repeat: no-repeat;
+    text-align: center;
+}
